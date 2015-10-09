@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.9.8",
+    "gulp": "^3.9.0",
+    "gulp-main-bower-files": "^1.2.2"
+  }
+}
